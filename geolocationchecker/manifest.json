@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Geolocation Checker",
-    "update_url": "https://ha.remote.homeagent.com.br/files/extensoes/chrome/updates.xml",
+    "update_url": "https://github.com/joaocarias/jcf.lab.geolocationchecker/blob/main/updates.xml",
     "version": "1.0",
     "description": "Verifica a geolocalização do usuário.",
     "permissions": [
